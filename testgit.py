@@ -7,4 +7,8 @@ Created on Thu May 19 10:28:12 2022
 """
 
 #TestGit
+<<<<<<< Updated upstream
 print("My python fil works !")
+=======
+print("My python file works !")
+>>>>>>> Stashed changes
